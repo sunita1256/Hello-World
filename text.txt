@@ -1,4 +1,3 @@
 Hello Viewers. My name is LILY.
-I live in Netherlands
-This is fun
+I live in Netherlands.
 Welcome to coding world.
